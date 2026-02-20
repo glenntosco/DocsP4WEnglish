@@ -1,0 +1,13 @@
+---
+description: P4 Warehouse
+---
+
+# Fulfillment
+
+**Data Entry** – This configuration page features options to edit Pick Ticket Number Prefix, Default Freight Type (LTL, Small Parcel or Other), Default Count on Ship, Default Sign On Ship, Default Count on Delivery, Default Sign On Delivery, and Packsize Entry Type (Packs or Eaches). A typical Pick Prefix may be “PCK-“ (which will precede pick ticket numbers). Packsize Entry Type is set to Packs by default. After modifying any entry, select the “Save” button to the lower right.&#x20;
+
+**Automation** – This configuration page features Auto Allocate On Release To Floor (whether an order should auto allocate upon being released to floor; Yes/No toggle), Auto Wave Upon Allocation (whether an order should auto wave upon allocation; Yes/No toggle), Auto Ship On Last Pick (whether an order should auto ship upon last pick; Yes/No toggle) and Auto Close On Ship (whether an order should auto close upon shipping; Yes/No toggle). Both defaults are set “No”. After modifying any entry, select the “Save” button to the lower right.&#x20;
+
+**Allocation** - This configuration page features Zones To Include (Comma separated list of zones to include in allocation; example A1,B2,C3), Allocation Style (options for allocation behavior; FIFO=First in, First out; LIFO=Last in, First out; Bin Name=Based on alphanumeric bin sorting; Custom=Alphanumeric sorting of Sequence Number value of the bin: default FIFO) Short Options (options for short behavior; Ship Short will allow shipping of shorted orders; Hold Short will not release an order for picking but reserves the stock; default: Ship Short), Allocate Bulk (include LPNs in Pickage Zones during allocation to pick from; Yes/No toggle, default: No), Expiry Allowance (minimum number of days to be allowed on an expiry product to be allocated, this option is overridden by a customer setting; default: 45) and Allocate Eaches (whether to allow allocating eaches for packsize controlled items; Yes/No toggle, default: Yes). After modifying any entry, select the “Save” button to the lower right.&#x20;
+
+**Waving** – This configuration page features SSCC Packaging Type (options are Case or Carton, Pallet, Intra Company Use, or Undefined), SSCC Global Company ID, Wave Number Prefix (default: WV), Multi Zone Waving (checkbox), Number of Cartons (default: 1) and Number of Copies (default: 1). After modifying any entry, select the “Save” button to the lower right. a. If an order gets UnWaved it will go into an Unallocated State (Allocating reserves stock in the warehouse specifically for your pick ticket. Unallocated means that no inventory will be reserved for pick orders as part of that wave)
