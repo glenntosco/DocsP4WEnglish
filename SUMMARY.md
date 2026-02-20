@@ -11,7 +11,7 @@
   * [Edit Warehouse](getting-started/create-a-warehouse/edit-warehouse.md)
   * [Add Zone & Bins](getting-started/create-a-warehouse/add-zone-and-bins.md)
 * [Create Users](getting-started/create-users.md)
-* [Create a Product](getting-started/untitled-1.md)
+* [Create a Product](getting-started/create-a-product.md)
 * [Create Provider](getting-started/create-provider.md)
 * [Create Customer](getting-started/create-customer.md)
 * [Setup Printers](getting-started/setup-printers.md)
@@ -22,8 +22,8 @@
 
 ***
 
-* [Teant Full Guide](teant-full-guide/README.md)
-  * [Tenant Setup](teant-full-guide/tenant-setup.md)
+* [Tenant Full Guide](tenant-full-guide/README.md)
+  * [Tenant Setup](tenant-full-guide/tenant-setup.md)
 
 ## Setup
 
@@ -65,7 +65,7 @@
     * [Automation](setup/system-configuration/receiving/automation.md)
     * [Handhelds](setup/system-configuration/receiving/handhelds.md)
     * [Operations](setup/system-configuration/receiving/operations.md)
-    * [Data Entry](setup/system-configuration/receiving/data-entery.md)
+    * [Data Entry](setup/system-configuration/receiving/data-entry.md)
   * [Calendar](setup/system-configuration/calendar.md)
   * [Reason Codes](setup/system-configuration/reason-codes-1.md)
 * [Products](setup/products/README.md)
@@ -108,26 +108,26 @@
   * [Templates](printing-and-labels/labels/templates.md)
   * [Label Design](printing-and-labels/labels/label-design.md)
 
-## Fulfillment <a href="#ordenes-de-salida" id="ordenes-de-salida"></a>
+## Fulfillment <a href="#fulfillment-setup" id="fulfillment-setup"></a>
 
-* [Fulfillment Operational Setup](ordenes-de-salida/fulfillment-operational-setup/README.md)
-  * [Customer](ordenes-de-salida/fulfillment-operational-setup/customer.md)
-  * [Cartonization Profiles](ordenes-de-salida/fulfillment-operational-setup/cartonization-profiles.md)
-  * [Carton Sizes](ordenes-de-salida/fulfillment-operational-setup/carton-sizes.md)
-  * [Carriers](ordenes-de-salida/fulfillment-operational-setup/carriers.md)
-* [Pick Ticket Creation](ordenes-de-salida/crear-ordenes-de-salida/README.md)
-  * [Back Order](ordenes-de-salida/crear-ordenes-de-salida/back-order.md)
-  * [Import XLSX](ordenes-de-salida/crear-ordenes-de-salida/import-xlsx.md)
-* [Allocation](ordenes-de-salida/asignacion.md)
-* [Waving](ordenes-de-salida/waving.md)
-* [Totes](ordenes-de-salida/totes-1.md)
-* [Grouping](ordenes-de-salida/grouping.md)
-* [Truck Load](ordenes-de-salida/truck-load.md)
-* [Master Truck Load](ordenes-de-salida/master-truck-load.md)
-* [Totes](ordenes-de-salida/totes.md)
-* [Shipping](ordenes-de-salida/shipping.md)
-* [Delivery](ordenes-de-salida/delivery.md)
-* [Staging](ordenes-de-salida/staging.md)
+* [Fulfillment Operational Setup](exit-orders/fulfillment-operational-setup/README.md)
+  * [Customer](exit-orders/fulfillment-operational-setup/customer.md)
+  * [Cartonization Profiles](exit-orders/fulfillment-operational-setup/cartonization-profiles.md)
+  * [Carton Sizes](exit-orders/fulfillment-operational-setup/carton-sizes.md)
+  * [Carriers](exit-orders/fulfillment-operational-setup/carriers.md)
+* [Pick Ticket Creation](exit-orders/pick-ticket-creation/README.md)
+  * [Back Order](exit-orders/pick-ticket-creation/back-order.md)
+  * [Import XLSX](exit-orders/pick-ticket-creation/import-xlsx.md)
+* [Allocation](exit-orders/allocation.md)
+* [Waving](exit-orders/waving.md)
+* [Totes](exit-orders/totes-1.md)
+* [Grouping](exit-orders/grouping.md)
+* [Truck Load](exit-orders/truck-load.md)
+* [Master Truck Load](exit-orders/master-truck-load.md)
+* [Totes](exit-orders/totes.md)
+* [Shipping](exit-orders/shipping.md)
+* [Delivery](exit-orders/delivery.md)
+* [Staging](exit-orders/staging.md)
 
 ## Purchasing
 
@@ -173,7 +173,7 @@
 ## Receiving
 
 * [General Receiving Information](receiving/general.md)
-* [PO List](receiving/untitled.md)
+* [PO List](receiving/po-list.md)
 * [PO Receiving](receiving/po-receiving.md)
 * [PO Photo](receiving/po-photo.md)
 * [Product Barcode](receiving/product-barcode.md)
@@ -186,7 +186,7 @@
   * [Pick List](fulfillment/picking/pick-list.md)
   * [Pick Ticket Picking](fulfillment/picking/pick-ticket-picking.md)
   * [Wave Picking](fulfillment/picking/wave-picking.md)
-  * [Full Pack Picking](fulfillment/picking/untitled.md)
+  * [Full Pack Picking](fulfillment/picking/full-pack-picking.md)
   * [Carton Picking](fulfillment/picking/carton-picking.md)
 * [Staging](fulfillment/staging/README.md)
   * [Tote Merge](fulfillment/staging/tote-merge.md)
@@ -209,39 +209,39 @@
 
 ## RMA
 
-* [Returns Process](rma/untitled/README.md)
-  * [RMA List](rma/untitled/rma-list.md)
-  * [RMA Receiving](rma/untitled/rma-receiving.md)
-  * [Photo](rma/untitled/photo.md)
-  * [Non RMA Receiving](rma/untitled/non-rma-receiving.md)
-  * [Un-Receive RMA](rma/untitled/un-receive-rma.md)
+* [Returns Process](rma/process/README.md)
+  * [RMA List](rma/process/rma-list.md)
+  * [RMA Receiving](rma/process/rma-receiving.md)
+  * [Photo](rma/process/photo.md)
+  * [Non RMA Receiving](rma/process/non-rma-receiving.md)
+  * [Un-Receive RMA](rma/process/un-receive-rma.md)
 
 ## Production <a href="#production-1" id="production-1"></a>
 
-* [Production Process](production-1/untitled/README.md)
-  * [Work Order List](production-1/untitled/work-order-list.md)
-  * [Picking](production-1/untitled/picking.md)
-  * [Production](production-1/untitled/production.md)
+* [Production Process](production-1/process/README.md)
+  * [Work Order List](production-1/process/work-order-list.md)
+  * [Picking](production-1/process/picking.md)
+  * [Production](production-1/process/production.md)
 
 ## Adjustments
 
-* [Adjustments Process](adjustments/untitled/README.md)
-  * [Vendor Return](adjustments/untitled/vendor-return.md)
-  * [Adjust in](adjustments/untitled/adjust-in.md)
-  * [Adjust in by Bin](adjustments/untitled/adjust-in-by-bin.md)
-  * [Adjust out](adjustments/untitled/adjust-out.md)
-  * [Adjust out by bin](adjustments/untitled/adjust-out-by-bin.md)
+* [Adjustments Process](adjustments/process/README.md)
+  * [Vendor Return](adjustments/process/vendor-return.md)
+  * [Adjust in](adjustments/process/adjust-in.md)
+  * [Adjust in by Bin](adjustments/process/adjust-in-by-bin.md)
+  * [Adjust out](adjustments/process/adjust-out.md)
+  * [Adjust out by bin](adjustments/process/adjust-out-by-bin.md)
 
 ## Miscellaneous
 
 * [Pallet Dimensions](miscellaneous/pallet-dimensions.md)
-* [Inventory](miscellaneous/untitled/README.md)
-  * [Packsize Convert](miscellaneous/untitled/packsize-convert.md)
-  * [Product Move](miscellaneous/untitled/product-move.md)
-  * [Full Bin Move](miscellaneous/untitled/full-bin-move.md)
-  * [Bin Contents](miscellaneous/untitled/bin-contents.md)
-  * [Packsize Breakdown](miscellaneous/untitled/packsize-breakdown.md)
-  * [Substitute Convert](miscellaneous/untitled/substitute-convert.md)
+* [Inventory](miscellaneous/inventory/README.md)
+  * [Packsize Convert](miscellaneous/inventory/packsize-convert.md)
+  * [Product Move](miscellaneous/inventory/product-move.md)
+  * [Full Bin Move](miscellaneous/inventory/full-bin-move.md)
+  * [Bin Contents](miscellaneous/inventory/bin-contents.md)
+  * [Packsize Breakdown](miscellaneous/inventory/packsize-breakdown.md)
+  * [Substitute Convert](miscellaneous/inventory/substitute-convert.md)
 * [Bulk - LPN](miscellaneous/bulk/README.md)
   * [LPN Letdown by Bin](miscellaneous/bulk/lpn-letdown-by-bin.md)
   * [LPN Letdown by Sku](miscellaneous/bulk/lpn-letdown-by-sku.md)
