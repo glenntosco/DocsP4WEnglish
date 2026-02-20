@@ -11,7 +11,7 @@ Printers are configured by your P4 Warehouse Partner, please contact the partner
 * [ ] A dedicated Windows computer for running the print server and interface software. (This should be an existing server that is always turned on)
 * [ ] Printer's are setup on the computer mentioned above.&#x20;
   * [ ] Connection type can be USB or Network.
-* [ ] Be sure to assign the printers friendly names lie Zone123, Zone33...
+* [ ] Be sure to assign the printers friendly names like Zone123, Zone33...
 
 {% hint style="info" %}
 P4 Warehouse can print in 203 dpi, 300 dpi and 600 dpi, be sure to tell your P4 Warehouse Partner the dpi of your printers.

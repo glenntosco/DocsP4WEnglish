@@ -11,7 +11,7 @@ _For detailed information on Carton Picking please contact your P4 Warehouse Par
 Carton Picking is designed for picking of cartonized boxes, labels get automatically assigned to the boxes and the boxes get placed on an LPN.
 
 {% hint style="warning" %}
-Pre-Printed LNP labels are required for this Pick style.
+Pre-Printed LPN labels are required for this Pick style.
 {% endhint %}
 
 Carton Picking or Cartonization is a picking style where the P4 Warehouse tells the picker what box size to pick the product into. Cartonization follows a pre-defined Cartonization Profile. Depending on the regulations published by your Big Box client, as to how the cartonization profile will be configured. Once the cartonization profile is configured and created it is assigned to the Customer in P4 Warehouse. Then when a web dispatcher is processing orders for this client the cartonization rules will be followed to keep your shipment in compliance with your customers' requirements.

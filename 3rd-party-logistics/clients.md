@@ -1,5 +1,5 @@
 ---
-description: P4 Warehouse 3PL Clieents / Multi Company
+description: P4 Warehouse 3PL Clients / Multi Company
 ---
 
 # 3PL Clients

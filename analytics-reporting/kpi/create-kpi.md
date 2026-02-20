@@ -16,7 +16,7 @@ To create reports you will need to know TSQL, the best option is to download the
 
 By clicking the name of an existing Widget, you will be able to edit the reports SQL statement.
 
-![P4 Warehouse SQL reports Querry](<../../.gitbook/assets/image (161).png>)
+![P4 Warehouse SQL reports Query](<../../.gitbook/assets/image (161).png>)
 
 Once you have your SQL Query working you will need to add a Chart.
 

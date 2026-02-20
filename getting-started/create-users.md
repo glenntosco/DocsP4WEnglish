@@ -39,7 +39,7 @@ In the User Setup Screen there are several important sections that must be confi
 
 **Handheld** - This configuration should only be used for company owned vehicles that are doing company deliveries.
 
-**Modules** - This is where the permissions are set based on the users roll in the warehouse.
+**Modules** - This is where the permissions are set based on the user's role in the warehouse.
 
 ![P4 Warehouse Printer Assignments](../.gitbook/assets/Printer-Assignments.gif)
 

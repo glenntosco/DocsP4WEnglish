@@ -6,7 +6,7 @@ description: P4 Warehouse Shipping
 
 The Ship Process will allow the PDT user to ship the pallet or boxes.
 
-![P$ Warehouse Pallet Shippping](<../../.gitbook/assets/image (94).png>)
+![P4 Warehouse Pallet Shipping](<../../.gitbook/assets/image (94).png>)
 
 Start the process by scanning the pallet label
 
